@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning how to develop and train small LLMs
 - 🔨 I’m currently working on a full stack web application to display [Venmo](https://venmo.com/) analytics like your average pay back time [here](https://github.com/oscarlk/venmoProject)
-- ⚡  Fun fact: I'm building an rc plane with my roommate!
+- ⚡  Fun fact: I'm flying an rc plane with my roommate!
 
 ## 🛠️ Languages and Tools
 <br>
