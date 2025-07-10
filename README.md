@@ -1,10 +1,5 @@
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Wave" width="50"/> Hi there! I'm Oscar
 
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/oscarlk/count.svg" alt="Visitor's Count" />
-</div>
-
 ### A full-stack software engineer passionate about creating meaningful web applications.
 
 - 🌱 I’m currently learning how to develop and train small LLMs
